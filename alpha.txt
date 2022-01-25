@@ -1,2 +1,2 @@
 This is my second file to test the git commands.
-Thank You
+Thank You.
